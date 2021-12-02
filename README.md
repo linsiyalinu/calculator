@@ -1,1 +1,2 @@
-# calculator
+Calculator Sample program 
+Devloper: Linsiya
